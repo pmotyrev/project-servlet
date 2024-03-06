@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+td {
+    border: 5px solid black;
+    font-size: 80px;
+    width: 100px;
+    height: 100px;
+    empty-cells: show;
+    text-align: center;
+}
+hr {
+    width: 20px;
+    border: 1px solid black;
+}
